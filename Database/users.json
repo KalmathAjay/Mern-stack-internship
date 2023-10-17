@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "65069f5828f4ad2b996c7bd8"
+  },
+  "name": "Developer",
+  "email": "developer123@gmail.com",
+  "password": "",
+  "avatar": {
+    "public_id": "avatars/svxpxnq66qcpvdro7aee",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1696737559/avatars/svxpxnq66qcpvdro7aee.png"
+  },
+  "role": "user",
+  "phoneNumber": "1234567891",
+  "createdAt": {
+    "$date": "2023-09-16T06:34:45.510Z"
+  },
+  "active": true,
+  "__v": 0,
+  "passwordResetExpires": {
+    "$date": "2023-10-08T06:42:18.259Z"
+  },
+  "passwordResetToken": "c28e4cfa1f7046ff44f85ee651b251b439f70575ed8de83f0b022bddb085673e"
+},
+{
+  "_id": {
+    "$oid": "65224d4257ecfc419ffe44e6"
+  },
+  "name": "User",
+  "email": "userdeveloper123@gmail.com",
+  "password": "",
+  "avatar": {
+    "public_id": "avatars/swp3ci6cxs2yhphledui",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1696746817/avatars/swp3ci6cxs2yhphledui.png"
+  },
+  "role": "user",
+  "phoneNumber": "09999999999",
+  "createdAt": {
+    "$date": "2023-10-08T06:08:46.173Z"
+  },
+  "active": true,
+  "__v": 0
+}]

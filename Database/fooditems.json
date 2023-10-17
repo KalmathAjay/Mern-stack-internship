@@ -1,0 +1,685 @@
+[{
+  "_id": {
+    "$oid": "64d6855485a26a78c29c1702"
+  },
+  "name": "Lemon Chai",
+  "price": 70,
+  "description": "Lemon Tea is a refreshing tea where lemon juice is added in black or green tea",
+  "category": "Chai",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id64",
+      "url": "https://myfoodstory.com/wp-content/uploads/2020/08/Sulaimani-Chai-1.jpg"
+    }
+  ],
+  "isVeg": false
+},
+{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1670"
+  },
+  "name": "Cappuccino",
+  "price": 200,
+  "description": "Serves 1 | A strong shot of Italian styled espresso, evened out with steamed and foamed milk.",
+  "category": "Beverages",
+  "stock": 96,
+  "images": [
+    {
+      "public_id": "some_public_id1",
+      "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gpthd2xmhg2wdp0muwsb"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163d",
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-02T11:30:33.155Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1673"
+  },
+  "name": "Espresso Shot",
+  "price": 169,
+  "description": "Serves 1 | A 30 ml serving of Coffee Shot for those who love a strong coffee black coffee without milk and without sugar.",
+  "category": "Beverages",
+  "stock": 136,
+  "images": [
+    {
+      "public_id": "some_public_id4",
+      "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/adxirgdok9fcgbiwcyzt"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163d",
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-04T04:44:35.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1674"
+  },
+  "name": "Cafe Mocha",
+  "price": 200,
+  "description": "Serves 1 | Hot coffee made with the right blend of espresso, hot milk and rich chocolate sauce.",
+  "category": "Beverages",
+  "stock": 110,
+  "images": [
+    {
+      "public_id": "some_public_id5",
+      "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gwai3ndmxcjfkvk3y5s1"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163d",
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-05T16:42:29.652Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c23a1185a26a78c29c1675"
+  },
+  "name": "Pink Lemonade",
+  "price": 75,
+  "description": "Lemonade, naturally colored, and made fresh daily.",
+  "category": "Beverages",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id16",
+      "url": "https://www.tastingtable.com/img/gallery/naturally-pink-lemonade-recipe/intro-1681224336.jpg"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c1640"
+},
+{
+  "_id": {
+    "$oid": "64c23a7e85a26a78c29c167a"
+  },
+  "name": "Mineral Water",
+  "price": 20,
+  "description": "1 Ltr",
+  "category": "Beverages",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id11",
+      "url": "https://m.media-amazon.com/images/I/31niWHKjyQL.jpg"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163e"
+},
+{
+  "_id": {
+    "$oid": "64c23abf85a26a78c29c167f"
+  },
+  "name": "Belgian Chocolate Cakesicles",
+  "price": 299,
+  "description": "Three layers of pure Belgian 55% dark chocolate truffle combined with almond praline.",
+  "category": "Cakes",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id6",
+      "url": "https://rumbaba.ge/wp-content/uploads/2022/09/%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B5%D0%B9%D0%BA-%D0%BF%D0%BE%D0%BF%D1%81%D1%8B-1-1.jpg"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": "64c23afd85a26a78c29c1684"
+},
+{
+  "_id": {
+    "$oid": "64c23abf85a26a78c29c1680"
+  },
+  "name": "Chocolate Hazelnut Mini Cake",
+  "price": 299,
+  "description": "These mini desserts are full of flavour and texture, with its velvety buttercream and nutty hints",
+  "category": "Cakes",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id7",
+      "url": "https://www.177milkstreet.com/assets/site/Recipes/Chocolate-Hazelnut-Cream.jpg"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": "64c110bd85a26a78c29c163e"
+},
+{
+  "_id": {
+    "$oid": "64c23abf85a26a78c29c1681"
+  },
+  "name": "Vanilla Pineapple Mini Cake",
+  "price": 299,
+  "description": "Madagascar vanilla mousse with delicious caramelized pineapple chunks with layers of moist sponge. ",
+  "category": "Cakes",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id8",
+      "url": "https://images-gmi-pmc.edge-generalmills.com/47157df5-30c6-49fd-90d8-f7ece7ca2fa6.jpg"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": "64c110bd85a26a78c29c163e"
+},
+{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1672"
+  },
+  "name": "Chocolate Muffin",
+  "price": 150,
+  "description": "A decadent chocolate muffin designed to hit the sweet spot, Contains Gluten, Contains Milk, Contains Soy",
+  "category": "Desserts",
+  "stock": 129,
+  "images": [
+    {
+      "public_id": "some_public_id3",
+      "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/hcsh2kynzpxjwj9o05vh"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163d",
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-03T13:16:17.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c23abf85a26a78c29c1682"
+  },
+  "name": "Black Forest Jar",
+  "price": 199,
+  "description": "A classic chocolate sponge cake, freshly whipped cream topped with cherries and chocolate shavings",
+  "category": "Desserts",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id9",
+      "url": "https://pic.warmoven.in/catalog/product/cache/de44929a3c2a476b28672db1e66c962d/b/l/black_forest_jar_1.jpg"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": "64c110bd85a26a78c29c163e"
+},
+{
+  "_id": {
+    "$oid": "64c23abf85a26a78c29c1683"
+  },
+  "name": "Mississippi Mud Pie Jar",
+  "price": 199,
+  "description": "A rich and delicious dessert that you can make individual servings by assembling in jars",
+  "category": "Desserts",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id10",
+      "url": "https://www.thelilypadcottage.com/wp-content/uploads/2013/06/mud_pie_recipe.jpg"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": "64c110bd85a26a78c29c163e"
+},
+{
+  "_id": {
+    "$oid": "64c23a1185a26a78c29c1676"
+  },
+  "name": "Crispy Mushroom Rice Bowl (Regular)",
+  "price": 299,
+  "description": "Fresh rice and everything nice. Comes with ranch dressing, fajita veggies like bell peppers and onions, pico de gallo, and crispy mushrooms.",
+  "category": "Meals",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id17",
+      "url": "https://lh3.googleusercontent.com/5AFeVPY_N8KCFEgPFMP4f8ph7igr3VtjuKqhsCyUBMxxwla7USXvhwP_YToMfl6idqLqWuQ8I5dmH_RjzHeBRcqsR-JYT-vOkcpdVcF8=w200-rw"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": "64c110bd85a26a78c29c1640"
+},
+{
+  "_id": {
+    "$oid": "64c23a1185a26a78c29c1677"
+  },
+  "name": "Signature BBQ Chicken Burrito",
+  "price": 300,
+  "description": "Our soft flour tortilla stuffed, rolled and lightly toasted.Hot and lightly toasted. Enjoy the goodness of grilled chicken, pinto beans, fajita veggies like bell peppers and onion.",
+  "category": "Meals",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id18",
+      "url": "https://lh3.googleusercontent.com/fpHeJ52b5Ie23jFo-ciP6Fdf9L3cl1EndTzUgGQaO_C76g1Anvea5CTFSwqbC2ZZnQBDWI1Cgbbxywszxp_lxLVz-F3LtbECU3o3iKuK=w512-rw"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": "64c110bd85a26a78c29c1640"
+},
+{
+  "_id": {
+    "$oid": "64c23a1185a26a78c29c1679"
+  },
+  "name": "Crispy Peri Peri Chicken Taco",
+  "price": 180,
+  "description": "A Mexican street favorite - flavorsome serving of tortilla filled with lettuce, pinto beans, pico de gallo, and crispy chicken, a perfect snack to binge on!",
+  "category": "Meals",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id20",
+      "url": "https://lh3.googleusercontent.com/Bv5LM31c5WYVz1H1AXZU6KJlwfhCZFlomzGDBGzm_wgEBtwYMTu8SzmsZvhpL2IYUMpb7fdnd-y9v_fTd9oO_jHKTeXfGsjeIUpbXhLf=w512-rw"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": "64c110bd85a26a78c29c1640"
+},
+{
+  "_id": {
+    "$oid": "64c23a7e85a26a78c29c167b"
+  },
+  "name": "Paneer Tikka Butter Masala",
+  "price": 160,
+  "description": "Paneer Butter Masala, also known as butter paneer is a rich & creamy curry made with paneer, spices, onions, tomatoes, cashews and butter",
+  "category": "Meals",
+  "stock": 149,
+  "images": [
+    {
+      "public_id": "some_public_id12",
+      "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/aebk3ggsozr3gtijronv"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163e",
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-10-08T06:15:11.199Z"
+  },
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "64c23a7e85a26a78c29c167e"
+  },
+  "name": "Butter Paratha",
+  "price": 30,
+  "description": "Serves 1 | Traditional Porota with butter.",
+  "category": "Meals",
+  "stock": 148,
+  "images": [
+    {
+      "public_id": "some_public_id15",
+      "url": "https://pipingpotcurry.com/wp-content/uploads/2022/11/Aloo-Paratha-Homemade-Recipe-Piping-Pot-Curry.jpg"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163e",
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-10-08T06:15:11.207Z"
+  },
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1671"
+  },
+  "name": "Chilli Cheese Toast",
+  "price": 160,
+  "description": "Serves 1 | Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes.",
+  "category": "Snacks",
+  "stock": 123,
+  "images": [
+    {
+      "public_id": "some_public_id2",
+      "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f64jr2us0n2h7xpx9qkm"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163d",
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-03T06:26:00.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16e1"
+  },
+  "name": "Fanta",
+  "price": 30,
+  "description": "1 Ltr Fanta Orange",
+  "category": "Beverages",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id115",
+      "url": "https://cache.dominos.com/olo/6_114_2/assets/build/market/US/_en/images/img/products/larges/F_ORAN.jpg"
+    }
+  ],
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16e2"
+  },
+  "name": "7UP",
+  "price": 35,
+  "description": "7Up (475ml)",
+  "category": "Beverages",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id116",
+      "url": "https://m.media-amazon.com/images/I/61Pzf9Eu5tL.jpg"
+    }
+  ],
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16e3"
+  },
+  "name": "Coke",
+  "price": 40,
+  "description": "1 Ltr Coca-Cola",
+  "category": "Beverages",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id117",
+      "url": "https://www.getfood.ng/wp-content/uploads/2020/08/coke1.jpg"
+    }
+  ],
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16e4"
+  },
+  "name": "Cold Coffee",
+  "price": 80,
+  "description": "Creamy Frothy Cold coffee is a perfect beverage for hot summers.",
+  "category": "Beverages",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id118",
+      "url": "https://mytastycurry.com/wp-content/uploads/2020/04/Cafe-style-cold-coffee-with-icecream-500x500.jpg"
+    }
+  ],
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16e5"
+  },
+  "name": "Oreo Milkshake",
+  "price": 180,
+  "description": "Oreo blended with icecream, whipped cream and Expresso.",
+  "category": "Beverages",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id119",
+      "url": "https://www.whiskaffair.com/wp-content/uploads/2020/07/Oreo-Milkshake-2-3.jpg"
+    }
+  ],
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64d6855485a26a78c29c16ff"
+  },
+  "name": "Kesar Elichi Chai",
+  "price": 60,
+  "description": "For a true chai lover, a cup of Kesar Elaichi Chai in one hand gives the kind of relaxation that adds to happiness and peace.",
+  "category": "Chai",
+  "stock": 149,
+  "images": [
+    {
+      "public_id": "some_public_id61",
+      "url": "https://www.mrcoconut.in/img/products/23_10_2021_16_51_255_pm.webp"
+    }
+  ],
+  "isVeg": true,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-11T19:03:20.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d6855485a26a78c29c1700"
+  },
+  "name": "Irani Chai",
+  "price": 60,
+  "description": "Irani Chai or Hyderabi Dum Chai is a flavorful chai made with heavy cream and condensed milk",
+  "category": "Chai",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id62",
+      "url": "https://static.toiimg.com/thumb/84340119.cms?imgsize=207643&width=800&height=800"
+    }
+  ],
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64d6855485a26a78c29c1701"
+  },
+  "name": "Ginger Chai",
+  "price": 60,
+  "description": "Winters are around the corner and there is nothing more comforting than a cup of piping hot Adrak Wali Chai.",
+  "category": "Chai",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id63",
+      "url": "https://static.toiimg.com/thumb/87098868.cms?imgsize=108058&width=800&height=800"
+    }
+  ],
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64d6584485a26a78c29c16d8"
+  },
+  "name": "Margherita Pizza",
+  "price": 199,
+  "description": "This margherita pizza recipe is a celebration of simple, fresh ingredients! Juicy tomatoes, basil, and mozzarella cheese top a crisp, chewy crust.",
+  "category": "Pizza",
+  "stock": 148,
+  "images": [
+    {
+      "public_id": "some_public_id10",
+      "url": "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza.jpg"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": "64c110bd85a26a78c29c163e",
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-12T05:28:02.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16dd"
+  },
+  "name": "Peppy Paneer Pizza",
+  "price": 120,
+  "description": "Paneer Pizza is made with a homemade pizza base and a delicious paneer tikka topping. You can also swap out the pizza base with Naan bread to make Naan Pizza.",
+  "category": "Pizza",
+  "stock": 148,
+  "images": [
+    {
+      "public_id": "some_public_id111",
+      "url": "https://carameltintedlife.com/wp-content/uploads/2021/09/paneer-pizza-recipe-1-2.jpg"
+    }
+  ],
+  "isVeg": true,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-10-01T17:00:39.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16de"
+  },
+  "name": "Cheese Lover Pizza",
+  "price": 120,
+  "description": "A slice of classic cheese pizza is one of life's greatest pleasures. The tasty reward is a crispy-bottomed, airy crust topped with tangy tomato sauce, and milky mozzarella.",
+  "category": "Pizza",
+  "stock": 149,
+  "images": [
+    {
+      "public_id": "some_public_id112",
+      "url": "https://static.toiimg.com/photo/53110049.cms"
+    }
+  ],
+  "isVeg": true,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-12T05:28:02.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16df"
+  },
+  "name": "Double Decker Pizza",
+  "price": 190,
+  "description": "Our show-stopping double decker pizza is hand-crafted from scratch with a rich flavorful crust, zesty tomato sauce, and loads of fresh mozzarella cheese.",
+  "category": "Pizza",
+  "stock": 149,
+  "images": [
+    {
+      "public_id": "some_public_id113",
+      "url": "https://billspizzapub.com/wp-content/uploads/2020/09/ZB-2096_9_-Cheese_ColorAdjust.jpg"
+    }
+  ],
+  "isVeg": true,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-12T05:28:02.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d6731585a26a78c29c16e0"
+  },
+  "name": "Cheese Corn Pizza",
+  "price": 109,
+  "description": "A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce. Better than any pizza from restaurant chains!",
+  "category": "Pizza",
+  "stock": 149,
+  "images": [
+    {
+      "public_id": "some_public_id114",
+      "url": "https://lh3.googleusercontent.com/ZsdpYQveCtjthAXBUfxqGSzGVUe_imY6TdYLgzLBROWIqmo0DHrlNxM2TmKstT8tQjsyUUY_KR8NEBiAKegpfy0j6hWG9NKMw-8S5RwEzg"
+    }
+  ],
+  "isVeg": false,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-08-12T05:28:02.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d67e9585a26a78c29c16f7"
+  },
+  "name": "Egg Sushi",
+  "price": 440,
+  "description": "Japanese style sweet and soft texture egg Tamago sushi. 150g | 402 kcal | 6 pcs Local organic sweet egg roll, Sticky rice, Wasabi Allergy: Egg",
+  "category": "Sushi",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id51",
+      "url": "https://www.allrecipes.com/thmb/nDk636ZAgKyjBp6f6J-W_YrR7Q0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221923-japanese-tamago-egg-F-D-4x3-7c337ae6d99f41258db7959eaff3ef4f.jpg"
+    }
+  ],
+  "isVeg": false
+},
+{
+  "_id": {
+    "$oid": "64d67e9585a26a78c29c16f8"
+  },
+  "name": "Tomato Sushi",
+  "price": 450,
+  "description": "Vegetarian Tomato Sushi 150g | 228 kcal | 6 pcs Pickled tomato, Sticky rice, Wasabi, Seaweed Allergy: Sesame, Soya, Sulphites",
+  "category": "Sushi",
+  "stock": 149,
+  "images": [
+    {
+      "public_id": "some_public_id52",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLvVQKGOPTFj5105Tgo1oVi5-X3tIIG8M-ZWCwjshMEn9fHzGH3tq_OFK0lpRMCK74gBPtZLJhrCi9MAVG6E9QeZ32KgDxii4CufvPEi0BMvoHr2smnuFwik9XIZS_2xrmI6z9om0d0xyt-bOYdtZJdjDOy9ry3_4S7AXf-w7QBqFMkdedqd3uZxeGsQ/s5184/IMG_2891.JPG"
+    }
+  ],
+  "isVeg": true,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-10-08T06:06:30.834Z"
+  },
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "64d67e9585a26a78c29c16f9"
+  },
+  "name": "Beetroot Sushi",
+  "price": 350,
+  "description": "Vegetarian Beetroot Sushi 150g | 258 kcal | 6 pcs Beet pickle, Sticky rice, Wasabi Allergy: Sesame, Soya, Sulphites",
+  "category": "Sushi",
+  "stock": 149,
+  "images": [
+    {
+      "public_id": "some_public_id53",
+      "url": "https://thumbs.dreamstime.com/b/rolls-salmon-cream-cheese-beetroot-rice-sushi-172647617.jpg"
+    }
+  ],
+  "isVeg": true,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2023-10-08T06:06:30.819Z"
+  },
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "64d67e9585a26a78c29c16fa"
+  },
+  "name": "Daikon Radish Sushi",
+  "price": 350,
+  "description": "Vegetarian Radish Sushi 150g | 234 kcal | 6 pcs Radish pickle, Sticky rice, Wasabi, Seaweed Allergy: None",
+  "category": "Sushi",
+  "stock": 150,
+  "images": [
+    {
+      "public_id": "some_public_id54",
+      "url": "https://www.japanesefoodguide.com/wp-content/uploads/2023/04/pickled-daikon-radish-sushi-1024x683.jpg.webp"
+    }
+  ],
+  "isVeg": false
+}]

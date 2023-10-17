@@ -1,0 +1,62 @@
+[
+  {
+    "_id": {
+      "$oid": "652248ef57ecfc419ffe429d"
+    },
+    "deliveryInfo": {
+      "address": "712/A, 10th A Main Rd, 4th Block, Jayanagar, Bengaluru",
+      "city": "Bangalore",
+      "phoneNo": "09999999999",
+      "postalCode": "560011",
+      "country": "India"
+    },
+    "restaurant": {
+      "$oid": "64d23cd585a26a78c29c16b3"
+    },
+    "user": {
+      "$oid": "65069f5828f4ad2b996c7bd8"
+    },
+    "orderItems": [
+      {
+        "name": "Paneer Tikka Butter Masala",
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/aebk3ggsozr3gtijronv",
+        "price": 160,
+        "fooditem": {
+          "$oid": "64c23a7e85a26a78c29c167b"
+        },
+        "_id": {
+          "$oid": "652248ef57ecfc419ffe429e"
+        }
+      },
+      {
+        "name": "Butter Paratha",
+        "quantity": 2,
+        "image": "https://pipingpotcurry.com/wp-content/uploads/2022/11/Aloo-Paratha-Homemade-Recipe-Piping-Pot-Curry.jpg",
+        "price": 30,
+        "fooditem": {
+          "$oid": "64c23a7e85a26a78c29c167e"
+        },
+        "_id": {
+          "$oid": "652248ef57ecfc419ffe429f"
+        }
+      }
+    ],
+    "paymentInfo": {
+      "id": "pi_3NyqGaSDYuI0nP161ou2u73R",
+      "status": "succeeded"
+    },
+    "paidAt": {
+      "$date": "2023-10-08T06:15:11.184Z"
+    },
+    "itemsPrice": 220,
+    "taxPrice": 11,
+    "deliveryCharge": 0,
+    "finalTotal": 231,
+    "orderStatus": "Delivered",
+    "createdAt": {
+      "$date": "2023-10-08T06:15:11.189Z"
+    },
+    "__v": 0
+  }
+]

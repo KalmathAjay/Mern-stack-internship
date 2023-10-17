@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "name": "Cafe Coffee Day",
+  "tags": "Coffee Tea",
+  "address": " JP Nagar, Bengaluru ",
+  "website": "https://www.cafecoffeeday.com",
+  "contact": {
+    "phone": "1800 102 5093"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/1/50211/8856cef83f7b071e3fa6320625258f96.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    }
+  ],
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 50,
+  "ratings": 4.5,
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "name": "Chai Point",
+  "tags": "Coffee Tea",
+  "address": " Jayanagar, Bengaluru ",
+  "website": "https://shop.chaipoint.com/",
+  "contact": {
+    "phone": "08880141000"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/0/52860/6750c2fe1f25a444991eee4d7afd5dd9_o2_featured_v2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    }
+  ],
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 78,
+  "ratings": 5,
+  "isVeg": true
+},
+{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "name": "Daily Sushi",
+  "tags": "Sushi",
+  "address": " Jayanagar, Bengaluru ",
+  "website": "http://www.dailysushi.in/",
+  "contact": {
+    "phone": "1234567890"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/3/18893733/552c95448430c9d0d1acbe33fb175d71.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    }
+  ],
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 10,
+  "ratings": 3.6
+},
+{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "name": "Domino's Pizza",
+  "tags": "Pizza",
+  "address": " JP Nagar, Bengaluru ",
+  "website": "https://www.dominos.co.in/",
+  "contact": {
+    "phone": "18002081234"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/2/50382/42692f651081811b6507c408edf90373.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    }
+  ],
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 90,
+  "ratings": 4.5
+},
+{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "name": "Hotel Empire",
+  "tags": "Biryani",
+  "address": " Jayanagar, Bengaluru ",
+  "website": "https://www.hotelempire.in",
+  "contact": {
+    "phone": "08043428080"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/1/50471/bcf68da39dcfb0fe5bcfb742c337385e.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    }
+  ],
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 60,
+  "ratings": 3.8
+},
+{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "name": "Mani's Briyani",
+  "tags": "Biryani",
+  "address": " JP Nagar, Bengaluru ",
+  "website": "http://www.manis.in/",
+  "contact": {
+    "phone": "08043006111"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/8/18570308/e6a22059ba273aa73a7c04f0d4789c9d.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    }
+  ],
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 46,
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "name": "Meghna Briyani",
+  "tags": "Biryani",
+  "address": " Jayanagar, Bengaluru ",
+  "website": "http://www.Meghna_Biryani.in/",
+  "contact": {
+    "phone": "09043006111"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/1/50691/92d9b4053ef0965120828b4fa4eecc3b.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    }
+  ],
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 96,
+  "ratings": 4.5
+},
+{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "name": "Pizza Hut",
+  "tags": "Pizza",
+  "address": " Jayanagar, Bengaluru ",
+  "website": "https://www.pizzahut.co.in/",
+  "contact": {
+    "phone": "08047091118"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/8/51418/4f4440d6f4e39151f92a850c27ac13f7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+    }
+  ],
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 20,
+  "ratings": 3.5
+}]
